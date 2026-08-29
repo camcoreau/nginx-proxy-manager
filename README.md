@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **CamCore downstream fork**
+>
+> CamCore retains this repository as a downstream fork of [Nginx Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager). The upstream README is preserved below. Repository contents record source only: they do not establish a CamCore deployment, published image, support contract or verified live service. CamCore claims no ownership of the upstream project; upstream authorship, documentation and licence remain applicable.
+
+---
+
+
 <p align="center">
 	<img src="https://nginxproxymanager.com/github.png">
 	<br><br>
